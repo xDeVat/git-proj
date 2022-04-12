@@ -11286,3 +11286,16 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+#table,tr,th{
+	border:1px solid black;
+	padding:10px;
+	min-width:150px;
+}
+#table{
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+}
+.marg{
+	margin-top:35px;
+}
